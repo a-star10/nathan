@@ -1,0 +1,19 @@
+Licence d'utilisation du logiciel "Nathan" (Version 1.0)
+
+Droits d'auteur (c) 2023 Léon Meizou
+
+Permission vous est accordée de copier, de modifier et de distribuer ce logiciel, sous réserve des restrictions suivantes :
+
+1. Vous pouvez utiliser, copier, modifier et distribuer ce logiciel à des fins personnelles ou commerciales.
+
+2. Vous devez conserver l'avis de droits d'auteur ci-dessus dans toutes les copies ou portions substantielles du logiciel.
+
+3. Le logiciel est fourni "tel quel", sans aucune garantie expresse ou implicite, y compris, mais sans s'y limiter, les garanties de qualité marchande, d'adéquation à un usage particulier et d'absence de contrefaçon. En aucun cas, les auteurs ou les détenteurs des droits d'auteur ne seront responsables de toute réclamation, dommage ou autre responsabilité, que ce soit dans le cadre d'une action en responsabilité contractuelle, délictuelle ou autre, découlant du logiciel ou de son utilisation, ou en relation avec le logiciel.
+
+4. Si vous apportez des modifications au logiciel, vous devez en informer clairement les utilisateurs en fournissant une documentation appropriée.
+
+Cette licence est sujette à modification. En utilisant ce logiciel, vous acceptez les termes de cette licence. Si vous ne les acceptez pas, veuillez ne pas utiliser le logiciel "Nathan".
+
+Pour toute question ou demande de contact concernant cette licence, veuillez contacter l'auteur à l'adresse leonmeizou@elyonhome.one .
+
+2023 Léon Meizou
