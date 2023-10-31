@@ -1,0 +1,18 @@
+Disclaimer: Utilisation de l'outil de test de vulnérabilité
+-----------------------------------------------------------
+
+L'utilisation de cet outil de test de vulnérabilité (ci-après dénommé "l'outil") est soumise aux termes et conditions suivants. En utilisant cet outil, vous acceptez ces conditions :
+
+1. L'outil est fourni à des fins éducatives et de test uniquement. Il est destiné à aider les utilisateurs à évaluer la sécurité de leurs propres systèmes et applications.
+
+2. L'auteur de l'outil n'assume aucune responsabilité pour les conséquences de l'utilisation de cet outil sur des systèmes ou des applications tiers. Les utilisateurs sont responsables de l'utilisation qu'ils en font.
+
+3. L'utilisation de cet outil sur des systèmes ou des applications sans l'autorisation appropriée est illégale et contraire à l'éthique. L'auteur de l'outil n'encourage ni ne soutient de telles activités.
+
+4. L'auteur de l'outil ne garantit pas l'exactitude, la fiabilité ou l'adéquation de l'outil à un usage spécifique. Les utilisateurs sont encouragés à utiliser l'outil avec discernement et à faire preuve de prudence.
+
+5. L'auteur se réserve le droit de modifier, mettre à jour ou supprimer cet outil à tout moment, sans préavis.
+
+En utilisant cet outil, vous acceptez de vous conformer à ces conditions. Si vous n'acceptez pas ces conditions, n'utilisez pas cet outil.
+
+Veuillez utiliser cet outil de manière responsable et légale, en respectant la vie privée et la sécurité des autres.
