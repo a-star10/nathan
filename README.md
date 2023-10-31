@@ -35,3 +35,12 @@ Auteur
 Ce script a été développé par Léon Meizou et est disponible en open source pour aider à la détection des vulnérabilités XSS.
 
 Pour toute question ou commentaire, veuillez nous contacter.
+ 
+L'outil est fourni à des fins éducatives et de test uniquement. Il est destiné à aider les utilisateurs à évaluer la sécurité de leurs propres systèmes et applications.
+
+2. L'auteur de l'outil n'assume aucune responsabilité pour les conséquences de l'utilisation de cet outil sur des systèmes ou des applications tiers. Les utilisateurs sont responsables de l'utilisation qu'ils en font.
+
+3. L'utilisation de cet outil sur des systèmes ou des applications sans l'autorisation appropriée est illégale et contraire à l'éthique. L'auteur de l'outil n'encourage ni ne soutient de telles activités.
+
+4. L'auteur de l'outil ne garantit pas l'exactitude, la fiabilité ou l'adéquation de l'outil à un usage spécifique. Les utilisateurs sont encouragés à utiliser l'outil avec discernement et à faire preuve de prudence.
+
