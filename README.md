@@ -1,4 +1,4 @@
-# nathan
+# Nathan
 
 Nathan est un petit script Python qui vous permet de tester des URLs à la recherche de vulnérabilités Cross-Site Scripting (XSS). Le script utilise Curl pour récupérer le contenu des URL, applique des payloads XSS, et enregistre les résultats dans un fichier PDF.
 
