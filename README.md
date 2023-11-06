@@ -11,7 +11,7 @@ Nathan est un petit script Python qui vous permet de tester des URLs à la reche
 3. Exécutez le script en utilisant la commande suivante :
 
    ```bash
-   python Nathan.py
+   python Nathan01v.py
 
 Utilisation
 Lorsque vous exécutez le script, il vous demandera de saisir des URLs à tester. Entrez l'URL que vous souhaitez tester.
